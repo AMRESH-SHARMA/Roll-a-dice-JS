@@ -1,0 +1,3 @@
+1.  Generate random number from 1-6.
+2.  Change image of dice acc to  random number generated, by naming images as dice1-dice6.
+3.  Compare random numbers to declare variable.
